@@ -1,0 +1,27 @@
+{
+  "name": "node-addons-substract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addon.js",
+  "scripts": {
+    "test": "node addon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ududsha/node-addon-substract.git"
+  },
+  "keywords": [
+    "node",
+    "addon"
+  ],
+  "author": "Udaya Shamendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ududsha/node-addon-substract/issues"
+  },
+  "homepage": "https://github.com/ududsha/node-addon-substract#readme",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.2.1"
+  }
+}
